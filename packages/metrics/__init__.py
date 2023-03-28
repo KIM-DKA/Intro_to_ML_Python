@@ -1,1 +1,2 @@
-from mape import mean_absolute_percentage_error
+from .mape import mean_absolute_percentage_error
+from .mape2 import mean_absolute_percentage_error
